@@ -47,4 +47,4 @@ __Delete__
 *List any divergences from PSR-1/PSR-2 and course guidelines on code style*
 
 ## Notes for instructor
-*Any notes for me to refer to while grading; if none, omit this section*
+*Hi Prof Buck I'm submitting my final project baffled and disappointed I mess up my project after trying setting up Laravel-Mediable I tried to fix it with no success and I thought I would have time to start over and finish which did not happen *
