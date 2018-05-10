@@ -1,0 +1,35 @@
+.jumbotron{
+
+    background-image: url(/images/starwarsbackground273.jpeg);
+    background-position: 0% 15%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+body{
+    background-color: #E1E8ED;
+}
+
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #efefef;
+    text-align: center;
+}
+
+.error {
+    list-style-type: none;
+    color: #a94442; /* reddish */
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+    font-size: 12px;
+    font-style: italic;
+}
